@@ -2,6 +2,8 @@
 A memory game created using Expo for React Native.
 
 
+Steps are below :
+
 npm install --unsafe-perm -g expo-cli
 
 expo init MemoryGame
